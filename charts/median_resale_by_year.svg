@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="550" viewBox="0 0 900 550" role="img" aria-label="Resale compared with the original pledge">
+<rect width="900" height="550" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="450" y="36" text-anchor="middle" font-size="23" font-weight="bold" fill="#172b4d">Resale compared with the original pledge</text>
+<text x="450" y="60" text-anchor="middle" font-size="13" font-weight="normal" fill="#526579">Matched content; US CPI adjustment. The 5+ year non-miniatures bin has six used sales.</text>
+<line x1="90" x2="820" y1="455.0" y2="455.0" stroke="#d9e2ec"/>
+<text x="78" y="460.0" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">-60%</text>
+<line x1="90" x2="820" y1="403.6" y2="403.6" stroke="#d9e2ec"/>
+<text x="78" y="408.57142857142856" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">-40%</text>
+<line x1="90" x2="820" y1="352.1" y2="352.1" stroke="#d9e2ec"/>
+<text x="78" y="357.14285714285717" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">-20%</text>
+<line x1="90" x2="820" y1="300.7" y2="300.7" stroke="#d9e2ec"/>
+<text x="78" y="305.71428571428567" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">+0%</text>
+<line x1="90" x2="820" y1="249.3" y2="249.3" stroke="#d9e2ec"/>
+<text x="78" y="254.28571428571425" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">+20%</text>
+<line x1="90" x2="820" y1="197.9" y2="197.9" stroke="#d9e2ec"/>
+<text x="78" y="202.85714285714283" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">+40%</text>
+<line x1="90" x2="820" y1="146.4" y2="146.4" stroke="#d9e2ec"/>
+<text x="78" y="151.4285714285714" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">+60%</text>
+<line x1="90" x2="820" y1="95.0" y2="95.0" stroke="#d9e2ec"/>
+<text x="78" y="100.0" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">+80%</text>
+<line x1="90" x2="820" y1="300.7" y2="300.7" stroke="#172b4d" stroke-width="1.7"/>
+<line x1="90" x2="90" y1="95" y2="455" stroke="#172b4d"/>
+<line x1="90" x2="820" y1="455" y2="455" stroke="#172b4d"/>
+<text x="22" y="275.0" text-anchor="middle" font-size="14" font-weight="normal" fill="#172b4d" transform="rotate(-90 22 275.0)">Median real difference</text>
+<text x="163.0" y="479" text-anchor="middle" font-size="13" font-weight="normal" fill="#172b4d">0–1</text>
+<text x="309.0" y="479" text-anchor="middle" font-size="13" font-weight="normal" fill="#172b4d">1–2</text>
+<text x="455.0" y="479" text-anchor="middle" font-size="13" font-weight="normal" fill="#172b4d">2–3</text>
+<text x="601.0" y="479" text-anchor="middle" font-size="13" font-weight="normal" fill="#172b4d">3–5</text>
+<text x="747.0" y="479" text-anchor="middle" font-size="13" font-weight="normal" fill="#172b4d">5+</text>
+<text x="455.0" y="509" text-anchor="middle" font-size="14" font-weight="normal" fill="#172b4d">Years after estimated delivery</text>
+<polyline points="163.0,139.7 309.0,181.7 455.0,242.5 601.0,274.5 747.0,223.1" fill="none" stroke="#0072b2" stroke-width="3"/>
+<circle cx="163.0" cy="139.7" r="5" fill="#0072b2"/>
+<circle cx="309.0" cy="181.7" r="5" fill="#0072b2"/>
+<circle cx="455.0" cy="242.5" r="5" fill="#0072b2"/>
+<circle cx="601.0" cy="274.5" r="5" fill="#0072b2"/>
+<circle cx="747.0" cy="223.1" r="5" fill="#0072b2"/>
+<polyline points="163.0,254.2 309.0,303.8 455.0,343.7 601.0,377.4 747.0,321.6" fill="none" stroke="#d55e00" stroke-width="3"/>
+<circle cx="163.0" cy="254.2" r="5" fill="#d55e00"/>
+<circle cx="309.0" cy="303.8" r="5" fill="#d55e00"/>
+<circle cx="455.0" cy="343.7" r="5" fill="#d55e00"/>
+<circle cx="601.0" cy="377.4" r="5" fill="#d55e00"/>
+<circle cx="747.0" cy="321.6" r="5" fill="#d55e00"/>
+<polyline points="163.0,301.9 309.0,355.4 455.0,343.8 601.0,371.6 747.0,431.1" fill="none" stroke="#009e73" stroke-width="3"/>
+<circle cx="163.0" cy="301.9" r="5" fill="#009e73"/>
+<circle cx="309.0" cy="355.4" r="5" fill="#009e73"/>
+<circle cx="455.0" cy="343.8" r="5" fill="#009e73"/>
+<circle cx="601.0" cy="371.6" r="5" fill="#009e73"/>
+<circle cx="747.0" cy="431.1" r="5" fill="#009e73"/>
+<line x1="198.7" x2="224.7" y1="523" y2="523" stroke="#0072b2" stroke-width="3"/>
+<text x="211.66666666666669" y="541" text-anchor="middle" font-size="13" font-weight="normal" fill="#172b4d">Miniatures: new</text>
+<line x1="442.0" x2="468.0" y1="523" y2="523" stroke="#d55e00" stroke-width="3"/>
+<text x="455.0" y="541" text-anchor="middle" font-size="13" font-weight="normal" fill="#172b4d">Miniatures: used</text>
+<line x1="685.3" x2="711.3" y1="523" y2="523" stroke="#009e73" stroke-width="3"/>
+<text x="698.3333333333334" y="541" text-anchor="middle" font-size="13" font-weight="normal" fill="#172b4d">Non-miniatures: used</text>
+</g></svg>

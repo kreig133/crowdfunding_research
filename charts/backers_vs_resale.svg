@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="550" viewBox="0 0 900 550" role="img" aria-label="Backers and post-delivery resale: weak association">
+<rect width="900" height="550" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="450" y="36" text-anchor="middle" font-size="23" font-weight="bold" fill="#172b4d">Backers and post-delivery resale: weak association</text>
+<text x="450" y="60" text-anchor="middle" font-size="13" font-weight="normal" fill="#526579">55 miniatures games with at least five USD-listed sales; post-hoc bucket cutoffs.</text>
+<line x1="105" x2="820" y1="455.0" y2="455.0" stroke="#d9e2ec"/>
+<text x="93" y="460.0" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">-100%</text>
+<line x1="105" x2="820" y1="415.0" y2="415.0" stroke="#d9e2ec"/>
+<text x="93" y="420.0" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">-50%</text>
+<line x1="105" x2="820" y1="375.0" y2="375.0" stroke="#d9e2ec"/>
+<text x="93" y="380.0" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">+0%</text>
+<line x1="105" x2="820" y1="335.0" y2="335.0" stroke="#d9e2ec"/>
+<text x="93" y="340.0" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">+50%</text>
+<line x1="105" x2="820" y1="295.0" y2="295.0" stroke="#d9e2ec"/>
+<text x="93" y="300.0" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">+100%</text>
+<line x1="105" x2="820" y1="255.0" y2="255.0" stroke="#d9e2ec"/>
+<text x="93" y="260.0" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">+150%</text>
+<line x1="105" x2="820" y1="215.0" y2="215.0" stroke="#d9e2ec"/>
+<text x="93" y="220.0" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">+200%</text>
+<line x1="105" x2="820" y1="175.0" y2="175.0" stroke="#d9e2ec"/>
+<text x="93" y="180.0" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">+250%</text>
+<line x1="105" x2="820" y1="135.0" y2="135.0" stroke="#d9e2ec"/>
+<text x="93" y="140.0" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">+300%</text>
+<line x1="105" x2="820" y1="95.0" y2="95.0" stroke="#d9e2ec"/>
+<text x="93" y="100.0" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">+350%</text>
+<line x1="105" x2="820" y1="375.0" y2="375.0" stroke="#172b4d" stroke-width="1.7"/>
+<line x1="105" x2="105" y1="95" y2="455" stroke="#172b4d"/>
+<line x1="105" x2="820" y1="455" y2="455" stroke="#172b4d"/>
+<text x="22" y="275.0" text-anchor="middle" font-size="14" font-weight="normal" fill="#172b4d" transform="rotate(-90 22 275.0)">Game median real difference</text>
+<line x1="198.5" x2="198.5" y1="95" y2="455" stroke="#d9e2ec"/>
+<text x="198.53917476318614" y="479" text-anchor="middle" font-size="12" font-weight="normal" fill="#172b4d">1,000</text>
+<line x1="292.1" x2="292.1" y1="95" y2="455" stroke="#d9e2ec"/>
+<text x="292.0783495263723" y="479" text-anchor="middle" font-size="12" font-weight="normal" fill="#172b4d">2,000</text>
+<line x1="415.7" x2="415.7" y1="95" y2="455" stroke="#d9e2ec"/>
+<text x="415.73041261840694" y="479" text-anchor="middle" font-size="12" font-weight="normal" fill="#172b4d">5,000</text>
+<line x1="509.3" x2="509.3" y1="95" y2="455" stroke="#d9e2ec"/>
+<text x="509.2695873815931" y="479" text-anchor="middle" font-size="12" font-weight="normal" fill="#172b4d">10,000</text>
+<line x1="632.9" x2="632.9" y1="95" y2="455" stroke="#d9e2ec"/>
+<text x="632.9216504736277" y="479" text-anchor="middle" font-size="12" font-weight="normal" fill="#172b4d">25,000</text>
+<line x1="726.5" x2="726.5" y1="95" y2="455" stroke="#d9e2ec"/>
+<text x="726.4608252368139" y="479" text-anchor="middle" font-size="12" font-weight="normal" fill="#172b4d">50,000</text>
+<line x1="820.0" x2="820.0" y1="95" y2="455" stroke="#d9e2ec"/>
+<text x="820.0" y="479" text-anchor="middle" font-size="12" font-weight="normal" fill="#172b4d">100,000</text>
+<text x="462" y="510" text-anchor="middle" font-size="14" font-weight="normal" fill="#172b4d">Campaign backers (log scale)</text>
+<circle cx="426.4" cy="145.8" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="147.7" cy="401.6" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="144.3" cy="408.4" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="259.3" cy="381.4" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="336.7" cy="374.2" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="355.9" cy="298.2" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="376.7" cy="359.0" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="413.1" cy="296.7" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="535.0" cy="310.0" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="617.9" cy="355.4" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="503.3" cy="353.8" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="253.1" cy="396.8" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="516.8" cy="363.6" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="482.2" cy="392.3" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="528.3" cy="390.3" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="438.1" cy="398.6" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="534.5" cy="302.4" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="307.0" cy="374.9" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="321.0" cy="343.7" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="702.7" cy="372.6" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="366.7" cy="394.4" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="247.5" cy="398.4" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="303.5" cy="380.2" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="425.0" cy="329.9" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="471.2" cy="376.6" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="420.9" cy="381.9" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="249.9" cy="421.4" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="385.9" cy="398.2" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="668.7" cy="387.3" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="383.4" cy="317.6" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="485.5" cy="408.5" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="481.1" cy="362.5" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="623.9" cy="374.2" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="671.8" cy="387.9" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="516.7" cy="372.9" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="795.2" cy="340.5" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="444.0" cy="316.0" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="476.2" cy="391.1" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="270.9" cy="380.0" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="525.8" cy="362.1" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="380.8" cy="382.9" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="702.6" cy="369.6" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="481.9" cy="393.0" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="460.3" cy="382.2" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="614.2" cy="354.9" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="652.8" cy="397.9" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="547.9" cy="391.3" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="253.9" cy="398.1" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="176.4" cy="378.4" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="652.8" cy="386.3" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="447.9" cy="369.1" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="625.2" cy="398.7" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="435.1" cy="373.7" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="328.0" cy="402.2" r="4" fill="#0072b2" opacity="0.7"/>
+<circle cx="611.5" cy="366.1" r="4" fill="#0072b2" opacity="0.7"/>
+<polygon points="223.1,390.1 231.1,398.1 223.1,406.1 215.1,398.1" fill="#d55e00" stroke="white" stroke-width="1"/>
+<polygon points="415.7,366.9 423.7,374.9 415.7,382.9 407.7,374.9" fill="#d55e00" stroke="white" stroke-width="1"/>
+<polygon points="572.7,356.8 580.7,364.8 572.7,372.8 564.7,364.8" fill="#d55e00" stroke="white" stroke-width="1"/>
+<polygon points="702.9,378.3 710.9,386.3 702.9,394.3 694.9,386.3" fill="#d55e00" stroke="white" stroke-width="1"/>
+<circle cx="272.5" cy="523" r="4" fill="#0072b2"/>
+<text x="272.5" y="541" text-anchor="middle" font-size="13" font-weight="normal" fill="#172b4d">Games</text>
+<polygon points="637.5,516 643.5,522 637.5,528 631.5,522" fill="#d55e00"/>
+<text x="637.5" y="541" text-anchor="middle" font-size="13" font-weight="normal" fill="#172b4d">Bucket medians</text>
+</g></svg>
