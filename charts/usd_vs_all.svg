@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="550" viewBox="0 0 900 550" role="img" aria-label="Used miniatures copies: USD-listed versus all sales">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="550" viewBox="0 0 900 550" role="img" aria-label="Used copies: USD-listed versus all currencies">
 <rect width="900" height="550" fill="#ffffff"/>
 <g font-family="Arial, Helvetica, sans-serif">
-<text x="450" y="36" text-anchor="middle" font-size="23" font-weight="bold" fill="#172b4d">Used miniatures copies: USD-listed versus all sales</text>
+<text x="450" y="36" text-anchor="middle" font-size="23" font-weight="bold" fill="#172b4d">Used copies: USD-listed versus all currencies</text>
 <text x="450" y="60" text-anchor="middle" font-size="13" font-weight="normal" fill="#526579">USD listing is a proxy for the US market, not a confirmed seller location.</text>
 <line x1="90" x2="820" y1="410.0" y2="410.0" stroke="#d9e2ec"/>
 <text x="78" y="415.0" text-anchor="end" font-size="13" font-weight="normal" fill="#172b4d">-40%</text>
@@ -21,20 +21,20 @@
 <text x="601.0" y="479" text-anchor="middle" font-size="13" font-weight="normal" fill="#172b4d">3–5</text>
 <text x="747.0" y="479" text-anchor="middle" font-size="13" font-weight="normal" fill="#172b4d">5+</text>
 <text x="455.0" y="509" text-anchor="middle" font-size="14" font-weight="normal" fill="#172b4d">Years after estimated delivery</text>
-<polyline points="163.0,148.6 309.0,235.4 455.0,305.3 601.0,364.2 747.0,266.5" fill="none" stroke="#0072b2" stroke-width="3"/>
-<circle cx="163.0" cy="148.6" r="5" fill="#0072b2"/>
-<circle cx="309.0" cy="235.4" r="5" fill="#0072b2"/>
-<circle cx="455.0" cy="305.3" r="5" fill="#0072b2"/>
-<circle cx="601.0" cy="364.2" r="5" fill="#0072b2"/>
-<circle cx="747.0" cy="266.5" r="5" fill="#0072b2"/>
-<polyline points="163.0,195.4 309.0,263.0 455.0,339.8 601.0,365.3 747.0,328.5" fill="none" stroke="#d55e00" stroke-width="3"/>
-<circle cx="163.0" cy="195.4" r="5" fill="#d55e00"/>
-<circle cx="309.0" cy="263.0" r="5" fill="#d55e00"/>
-<circle cx="455.0" cy="339.8" r="5" fill="#d55e00"/>
-<circle cx="601.0" cy="365.3" r="5" fill="#d55e00"/>
-<circle cx="747.0" cy="328.5" r="5" fill="#d55e00"/>
-<line x1="259.5" x2="285.5" y1="523" y2="523" stroke="#0072b2" stroke-width="3"/>
+<polyline points="163.0,188.3 309.0,248.9 455.0,305.4 601.0,364.2 747.0,279.5" fill="none" stroke="#0072B2" stroke-width="3"/>
+<circle cx="163.0" cy="188.3" r="5" fill="#0072B2"/>
+<circle cx="309.0" cy="248.9" r="5" fill="#0072B2"/>
+<circle cx="455.0" cy="305.4" r="5" fill="#0072B2"/>
+<circle cx="601.0" cy="364.2" r="5" fill="#0072B2"/>
+<circle cx="747.0" cy="279.5" r="5" fill="#0072B2"/>
+<polyline points="163.0,218.0 309.0,278.7 455.0,334.0 601.0,365.3 747.0,331.2" fill="none" stroke="#CC79A7" stroke-width="3"/>
+<circle cx="163.0" cy="218.0" r="5" fill="#CC79A7"/>
+<circle cx="309.0" cy="278.7" r="5" fill="#CC79A7"/>
+<circle cx="455.0" cy="334.0" r="5" fill="#CC79A7"/>
+<circle cx="601.0" cy="365.3" r="5" fill="#CC79A7"/>
+<circle cx="747.0" cy="331.2" r="5" fill="#CC79A7"/>
+<line x1="259.5" x2="285.5" y1="523" y2="523" stroke="#0072B2" stroke-width="3"/>
 <text x="272.5" y="541" text-anchor="middle" font-size="13" font-weight="normal" fill="#172b4d">All currencies</text>
-<line x1="624.5" x2="650.5" y1="523" y2="523" stroke="#d55e00" stroke-width="3"/>
+<line x1="624.5" x2="650.5" y1="523" y2="523" stroke="#CC79A7" stroke-width="3"/>
 <text x="637.5" y="541" text-anchor="middle" font-size="13" font-weight="normal" fill="#172b4d">USD-listed</text>
 </g></svg>
